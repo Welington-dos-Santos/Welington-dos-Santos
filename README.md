@@ -36,14 +36,14 @@ Meu nome é **Welington Augusto dos santos**, tenho 22 e sou natural do Rio Gran
 <img 
 align="left"
 alt="GitHub Stats"
-height="200"
+height="170"
 style="padding-right:10px;"
 src="https://github-readme-stats.vercel.app/api?username=Welington-dos-Santos&show_icons=true&theme=radical&include_all_commits=true" />
 
 <img 
 align="left"
 alt="GitHub Stats"
-height="200"
+height="170"
 style="padding-right:10px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welington-dos-Santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </p>
