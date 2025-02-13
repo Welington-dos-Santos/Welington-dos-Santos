@@ -4,7 +4,7 @@
 
 ---
 
-<p>Meu nome é **Welington Augusto dos santos**, tenho 22 e sou natural do Rio Grande do Sul. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela Unicesumar. Sou um estusiasta por tecnologia e gosto de desafios, criando vários projetos sempre em busca de mais conhecimento e soluções inovadoras.</p>
+<p>Meu nome é <strong>Welington Augusto dos santos</strong>, tenho 22 e sou natural do Rio Grande do Sul. Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Unicesumar. Sou um estusiasta por tecnologia e gosto de desafios, criando vários projetos sempre em busca de mais conhecimento e soluções inovadoras.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welington-dos-santos/)
 
