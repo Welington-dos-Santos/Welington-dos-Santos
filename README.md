@@ -75,28 +75,6 @@ Multiple integrations connecting internal systems with third-party services via 
     <img style="padding-right:8px" title="postgresql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
     <img style="padding-right:8px" title="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img 
-align="left"
-alt="GitHub Stats"
-height="170"
-style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api?username=Welington-dos-Santos&show_icons=true&theme=radical&include_all_commits=true" />
-
-<img
-align="left"
-alt="Top Languages"
-height="170"
-style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welington-dos-Santos&theme=tokyonight&layout=compact&custom_title=Top Languages&langs_count=10" />
-</p>
-<br/>
 
 ---
 
