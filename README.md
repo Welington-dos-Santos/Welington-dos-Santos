@@ -4,7 +4,17 @@
 
 ---
 
-<p>Meu nome é <strong>Welington Augusto dos santos</strong>, tenho 22 e sou natural do Rio Grande do Sul. Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Unicesumar. Sou um estusiasta por tecnologia e gosto de desafios, criando vários projetos sempre em busca de mais conhecimento e soluções inovadoras.</p>
+<p>
+  Hi! I'm <strong>Welington Augusto dos Santos</strong>, a <strong>Full Stack Software Developer</strong> from Rio Grande do Sul, Brazil, currently based in Dublin, Ireland.
+</p>
+
+<p>
+  I hold a <strong>Degree in Systems Analysis and Development</strong> from Unicesumar and have nearly <strong>5 years of professional experience</strong> developing enterprise web and mobile applications, REST APIs, system integrations, and business automation solutions.
+</p>
+
+<p>
+  I enjoy solving complex problems, learning new technologies, and building scalable software that creates real value. I'm always working on personal projects, exploring new ideas, and continuously improving my skills as a developer.
+</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welington-dos-santos/)
 
